@@ -1402,7 +1402,7 @@ for(int i=0;i<n;i++){
 			}
 		}
 
-		arm.GripperToggle(false);
+		arm_dash.GripperToggle(false);
 	}
 	
 
